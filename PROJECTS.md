@@ -1,26 +1,22 @@
-# **Ling-Yun Huang's Data Science Portfolio**
-
-Welcome to my GitHub profile! I am a data scientist with a strong foundation in **machine learning**, **big data technologies**, **energy analytics**, **statistical modeling**, and **computer vision**. This portfolio showcases my work and demonstrates my skills in solving real-world problems with data-driven approaches. Feel free to explore the repositories below and learn more about the tools and techniques I've used.
-
-## **🚀 Featured Projects**
+# **Ling-Yun Huang's Projects**
 
 ### **1. [Dissertation: Filling Missing Data in Electricity Supply Areas with Machine Learning Methods](https://github.com/Ling-Yun-Huang/filling-missing-data-electricity-ml)**  
 **Skills/Tools Used**:  
-- **Machine Learning**: Random Forest, Multilayer Perceptrons (MLP)  
-- **Data Integration**: GeoPandas  
-- **Programming**: Python (Scikit-learn, PyTorch)  
+- **Machine Learning**: Random Forest, Multilayer Perceptrons (MLP), Regression Model, Spatial Analysis
+- **Data Integration**: GeoPandas, Feature Engineering 
+- **Programming**: Python (Scikit-learn, statsmodels, mgwr)  
 
-In collaboration with **Advanced Infrastructure Technology Ltd**, I tackled the challenge of missing data in electricity supply area datasets. I designed advanced machine learning models to improve imputation accuracy and integrated spatial data using GeoPandas, providing actionable insights for energy data optimization strategies.
+Developed machine learning models for missing value imputation in electricity supply area datasets, integrating spatial data with GeoPandas. Collaborated with **Advanced Infrastructure Technology Ltd** to enhance data quality and provide actionable insights for energy data optimization.
 
 ---
 
 ### **2. [Energy Outcomes Analysis Based on Countries' Development Levels](https://github.com/Ling-Yun-Huang/worldwide-energy-outcomes-visual-analytics)**  
 **Skills/Tools Used**:  
-- **Clustering & Statistical Modeling**: K-means, Mixed Effects Models  
-- **Data Visualization**: Matplotlib, Seaborn  
-- **Programming**: Python  
+- **Clustering & Statistical Modeling**: K-means, ANOVA, Mixed Effects Models, Time Series Forecasting
+- **Data Visualization & Visual Analytics**: Matplotlib, Seaborn, Altair
+- **Programming**: Python (Pandas, NumPy, Statsmodels)
 
-This project analyzes global energy disparities from 2010–2020, using statistical modeling and clustering techniques. I also forecasted energy outcomes for 2030, uncovering significant insights related to energy accessibility, efficiency, and sustainability across different countries.
+Analysed global energy disparities from 2010–2020 using statistical modelling and clustering techniques. Developed a visual analytics process to explore trends in energy accessibility, efficiency, and sustainability across different countries. Additionally, forecasted energy outcomes for 2030, align with **UK sustainability goals** to support policy recommendations and decision-making for the future.
 
 ---
 
@@ -34,13 +30,13 @@ Optimized cloud-based workflows for efficient data storage and processing using 
 
 ---
 
-### **4. [Mask-Wearing Detection using Deep Learning and Computer Vision](https://github.com/Ling-Yun-Huang/mask-detection-cv)**  
+### **4. [Mask-Wearing Detection using Computer Vision Techniques](https://github.com/Ling-Yun-Huang/mask-detection-cv)**  
 **Skills/Tools Used**:  
-- **Deep Learning**: Convolutional Neural Networks (CNN)  
+- **Deep Learning**: Convolutional Neural Networks (CNN), Multilayer Perceptrons (MLP), Support Vector Machines (SVM)  
 - **Image Processing**: HOG, SIFT, Feature Extraction  
-- **Programming**: Python  
+- **Programming**: Python (PyTorch, cv2, Scikit-learn)
 
-Developed a **real-time mask-wearing detection system** using **deep learning** (CNNs). This project compares multiple classification methods (HOG+SVM, SIFT+MLP) and demonstrates CNNs' superior performance in detecting mask-wearing in video streams.
+Developed a real-time mask-wearing detection system using deep learning (CNNs). Compared multiple classification methods (HOG+SVM, SIFT+MLP) and demonstrated CNNs' superior performance in detecting mask-wearing in image/video streams.
 
 ---
 
