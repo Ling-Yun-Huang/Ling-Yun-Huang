@@ -26,3 +26,6 @@ My data support contributed to the following papers:
 -	Chen, H. C., Hsu, N. W., & Chou, P. (2020). Subgrouping Poor Sleep Quality in Community-Dwelling Older Adults with Latent Class Analysis - The Yilan Study, Taiwan. Scientific reports, 10(1), 5432. https://doi.org/10.1038/s41598-020-62374-4
 -	Tang, I. T., Hsu, N. W., Chou, P., & Chen, H. C. (2020). The association between various characteristics of hypnotics and cardiac autonomic control in community-dwelling older adults: the Yilan Study, Taiwan. Sleep medicine, 71, 77–82. https://doi.org/10.1016/j.sleep.2020.03.026
 
+---
+
+For an overview of my work, visit my [GitHub Profile](https://github.com/Ling-Yun-Huang).
