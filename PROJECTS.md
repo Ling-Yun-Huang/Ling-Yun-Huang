@@ -20,13 +20,13 @@ Analysed global energy disparities from 2010–2020 using statistical modelling 
 
 ---
 
-### **3. [Parallelizing Data Storage and Processing with PySpark on Google Cloud Platform](https://github.com/Ling-Yun-Huang/big-data-coursework)**  
+### **3. [Parallelising Data Storage and Processing with PySpark on Google Cloud Platform](https://github.com/Ling-Yun-Huang/spark-gcp-data-optimization)**  
 **Skills/Tools Used**:  
 - **Big Data Technologies**: PySpark, Google Cloud Platform (GCP)  
 - **Cloud Computing**: Data Parallelization, Performance Optimization  
 - **Programming**: Python  
 
-Optimized cloud-based workflows for efficient data storage and processing using **Apache Spark** on **Google Cloud Platform**. This project involved performance optimization through parallelization and caching, leading to significant improvements in speed and resource utilization.
+Optimised cloud-based workflows for efficient data storage and processing using **Apache Spark** on **Google Cloud Platform**. This project involved performance optimisation through parallelisation and caching, significantly improving speed and resource utilisation.
 
 ---
 
@@ -36,7 +36,7 @@ Optimized cloud-based workflows for efficient data storage and processing using 
 - **Image Processing**: HOG, SIFT, Feature Extraction  
 - **Programming**: Python (PyTorch, cv2, Scikit-learn)
 
-Developed a real-time mask-wearing detection system using deep learning (CNNs). Compared multiple classification methods (HOG+SVM, SIFT+MLP) and demonstrated CNNs' superior performance in detecting mask-wearing in image/video streams.
+Developed a real-time mask-wearing detection system using deep learning (CNNs). Multiple classification methods (CNN, HOG+SVM, SIFT+MLP) were compared, and CNNs' superior performance in detecting mask-wearing in image/video streams was demonstrated.
 
 ---
 
