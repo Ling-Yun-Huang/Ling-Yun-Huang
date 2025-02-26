@@ -70,7 +70,7 @@ This project analyzes **traffic accident data** from Taipei (2020–2022) to imp
 
 ---
 
-### **8. [MLPs vs CNNs for Image Classification](https://github.com/Ling-Yun-Huang/mlp-vs-cnn)**  
+### **8. [MLPs vs CNNs for Image Classification](https://github.com/Ling-Yun-Huang/mlp-vs-cnn-image-classification)**  
 **Skills/Tools Used**:  
 - **Neural Networks**: MLP, CNN  
 - **Machine Learning**: Image Classification  
