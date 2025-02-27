@@ -40,7 +40,7 @@ Developed a real-time mask-wearing detection system using deep learning (CNNs). 
 
 ---
 
-### **5. [Diabetes Prediction: Comparing Logistic Regression and Naïve Bayes](https://github.com/Ling-Yun-Huang/diabetes-prediction)**  
+### **5. [Diabetes Prediction: Comparing Logistic Regression and Naïve Bayes](https://github.com/Ling-Yun-Huang/diabetes-prediction-ml)**  
 **Skills/Tools Used**:  
 - **Machine Learning**: Logistic Regression, Naïve Bayes  
 - **Model Evaluation**: F1-score, AUC  
