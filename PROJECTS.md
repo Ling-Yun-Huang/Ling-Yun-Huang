@@ -44,7 +44,7 @@ Developed a real-time mask-wearing detection system using deep learning (CNNs). 
 **Skills/Tools Used**:  
 - **Machine Learning**: Logistic Regression, Naïve Bayes  
 - **Model Evaluation**: F1-score, AUC  
-- **Programming**: Python, MATLAB  
+- **Programming**: MATLAB  
 
 I compared **Logistic Regression** and **Naïve Bayes** models using **Kaggle’s Diabetes Health Indicators** dataset. This project highlights the **Logistic Regression** model’s superior predictive performance in terms of **F1-score** and **AUC**.
 
