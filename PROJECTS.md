@@ -50,13 +50,13 @@ I compared **Logistic Regression** and **Naïve Bayes** models using **Kaggle’
 
 ---
 
-### **6. [Visualizing Taiwan's Renewable Energy Progress (2005–2023)](https://github.com/Ling-Yun-Huang/taiwan-renewable-energy)**  
+### **6. [Visualizing Taiwan's Renewable Energy Progress (2005–2023)](https://github.com/Ling-Yun-Huang/taiwan-renewable-energy-visualisation)**  
 **Skills/Tools Used**:  
 - **Data Visualization**: Observable, JavaScript  
-- **Statistical Modeling**: Regression Analysis  
+- **Statistical Modeling**: Regression Analysis (Linear & Polynomial)  
 - **Programming**: JavaScript, Python  
 
-Analyzed and visualized the **renewable energy trends** in Taiwan, identifying the impact of national policies on renewable energy adoption. This project uses **statistical regression models** to predict renewable energy goals for 2025 and beyond.
+Developed **interactive visualizations** to analyze Taiwan’s renewable energy progress from **2005 to 2023**, focusing on the impact of **2016 energy policy reforms**. Explored **solar and wind energy trends**, identified **seasonal patterns**, and used **regression models** to assess the feasibility of Taiwan’s **20% renewable energy target by 2025**.
 
 ---
 
