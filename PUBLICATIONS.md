@@ -1,6 +1,6 @@
 # Ling-Yun Huang's Publications
 
-- Hsiao, P. Y., Weng, M. T., Chang, C. H., **Huang, L. Y.**, Tung, C. C., Leong, Y. L., Shieh, M. J., Wong, J. M., & Wei, S. C. (2023). Anemia in inflammatory bowel disease course is associated with patients' worse outcome. Journal of the Formosan Medical Association = Taiwan yi zhi, 122(7), 549–556. https://doi.org/10.1016/j.jfma.2022.11.004
+- Hsiao, P. Y., Weng, M. T., Chang, C. H., **Huang, L. Y.**, Tung, C. C., Leong, Y. L., Shieh, M. J., Wong, J. M., & Wei, S. C. (2023). [Anemia in inflammatory bowel disease course is associated with patients' worse outcome.](https://github.com/Ling-Yun-Huang/IBD-Anemia-Study) Journal of the Formosan Medical Association = Taiwan yi zhi, 122(7), 549–556. https://doi.org/10.1016/j.jfma.2022.11.004
 
 - Chen, B. C., Weng, M. T., Chang, C. H., **Huang, L. Y.**, & Wei, S. C. (2022). Effect of smoking on the development and outcomes of inflammatory bowel disease in Taiwan: a hospital-based cohort study. Scientific reports, 12(1), 7665. https://doi.org/10.1038/s41598-022-11860-y
 
