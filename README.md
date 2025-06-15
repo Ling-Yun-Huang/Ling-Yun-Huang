@@ -11,7 +11,6 @@ I have supported **20+ publications** through data analysis, statistical modelin
 ## **📫 Contact Information**
 
 - 📧 huanglingyun510@gmail.com
-- 📞 +886 988009684
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ling-yun-huang-5a6a56206/) | [GitHub](https://github.com/Ling-Yun-Huang)
 
 ### **Key Skills**
