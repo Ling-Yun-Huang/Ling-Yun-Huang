@@ -15,7 +15,7 @@ I have supported **20+ publications** through data analysis, statistical modelin
 
 ### **Key Skills**
 
-| **Machine Learning / Statistics** | **Interdisciplinary Collaboration** | **Python / SAS Programming** |
+| **Machine Learning / Statistics** | **Interdisciplinary Collaboration** | **Python / SQL / SAS** |
 |-----------------------------------|-------------------------------------|------------------------------|
 | **Data Integration / Analysis**   | **Energy & Healthcare Data**        | **Big Data & Cloud Computing (PySpark, GCP)**  |
 
