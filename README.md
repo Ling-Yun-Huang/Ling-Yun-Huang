@@ -39,7 +39,7 @@ I have supported **20+ publications** through data analysis, statistical modelin
   - Contributed to **project proposals, reports, and academic manuscripts**.
 
 ### **MSc Applied Mathematics**
-**National Chiao Tung University** | Hsinchu, Taiwan | *08/2015 – 06/2017*
+**National Chiao Tung University** | Hsinchu, Taiwan | *08/2013 – 06/2015*
 
 ### **BSc Mathematics**
 **National Central University** | Taoyuan, Taiwan | *09/2009 – 06/2013*
