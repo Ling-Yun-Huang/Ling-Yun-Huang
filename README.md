@@ -78,5 +78,5 @@ I have supported **20+ publications** through data analysis, statistical modelin
 
 ## **Languages**
 - **Mandarin**: Native  
-- **English**: C1 (IELTS 7)  
+- **English**: C1 (IELTS 7.0)  
 - **German**: A1 (Currently Studying)  
