@@ -6,13 +6,13 @@
 - **Data Integration**: GeoPandas, Feature Engineering 
 - **Programming**: Python (Scikit-learn, statsmodels, mgwr)  
 
-Developed machine learning models for missing value imputation in electricity supply area datasets, integrating spatial data with GeoPandas. Collaborated with **Advanced Infrastructure Technology Ltd** to enhance data quality and provide actionable insights for energy data optimization.
+Developed machine learning models for missing value imputation in electricity supply area datasets, integrating spatial data with GeoPandas. Collaborated with **Advanced Infrastructure Technology Ltd** to enhance data quality and provide actionable insights for energy data optimisation.
 
 ---
 
 ### **2. [Energy Outcomes Analysis Based on Countries' Development Levels](https://github.com/Ling-Yun-Huang/worldwide-energy-outcomes-visual-analytics)**  
 **Skills/Tools Used**:  
-- **Clustering & Statistical Modeling**: K-means, ANOVA, Mixed Effects Models, Time Series Forecasting
+- **Clustering & Statistical Modelling**: K-means, ANOVA, Mixed Effects Models, Time Series Forecasting
 - **Data Visualization & Visual Analytics**: Matplotlib, Seaborn, Altair
 - **Programming**: Python (Pandas, NumPy, Statsmodels)
 
@@ -50,13 +50,13 @@ I compared **Logistic Regression** and **Naïve Bayes** models using **Kaggle’
 
 ---
 
-### **6. [Visualizing Taiwan's Renewable Energy Progress (2005–2023)](https://github.com/Ling-Yun-Huang/taiwan-renewable-energy-visualisation)**  
+### **6. [Visualising Taiwan's Renewable Energy Progress (2005–2023)](https://github.com/Ling-Yun-Huang/taiwan-renewable-energy-visualisation)**  
 **Skills/Tools Used**:  
 - **Data Visualization**: Observable, JavaScript  
 - **Statistical Modeling**: Regression Analysis (Linear & Polynomial)  
 - **Programming**: JavaScript, Python  
 
-Developed **interactive visualizations** to analyze Taiwan’s renewable energy progress from **2005 to 2023**, focusing on the impact of **2016 energy policy reforms**. Explored **solar and wind energy trends**, identified **seasonal patterns**, and used **regression models** to assess the feasibility of Taiwan’s **20% renewable energy target by 2025**.
+Developed **interactive visualisations** to analyse Taiwan’s renewable energy progress from **2005 to 2023**, focusing on the impact of **2016 energy policy reforms**. Explored **solar and wind energy trends**, identified **seasonal patterns**, and used **regression models** to assess the feasibility of Taiwan’s **20% renewable energy target by 2025**.
 
 ---
 
@@ -66,7 +66,7 @@ Developed **interactive visualizations** to analyze Taiwan’s renewable energy 
 - **Data Analysis**: Regression, Feature Engineering  
 - **Programming**: Python  
 
-This project analyzes **traffic accident data** from Taipei (2020–2022) to improve pedestrian safety. Using **Random Forest** models, I identified key factors influencing pedestrian injuries, such as age, time of day, and vehicle type.
+This project analyses **traffic accident data** from Taipei (2020–2022) to improve pedestrian safety. Using **Random Forest** models, I identified key factors influencing pedestrian injuries, such as age, time of day, and vehicle type.
 
 ---
 
@@ -80,12 +80,23 @@ This study compares the performance of **Multilayer Perceptrons (MLPs)** and **C
 
 ---
 
+### **9. [IoT-Based Energy Consumption Analysis and Forecasting for Building Systems](https://github.com/Ling-Yun-Huang/IoT-Energy-Consumption)**  
+**Skills/Tools Used**:  
+- **Machine Learning & Forecasting**: LightGBM, RandomForest, XGBoost, LSTM  
+- **Feature Engineering**: Time-based features, rolling statistics, lag features  
+- **Data Visualisation**: Matplotlib, Seaborn, weekly pattern vs forecast plots  
+- **Programming**: Python (Pandas, NumPy, Scikit-learn, LightGBM, TensorFlow/Keras for LSTM)  
+
+Analysed and forecasted **hourly building energy consumption** for the next 7 days using IoT-based historical data. Generated detailed **time-series features** capturing daily and weekly cycles, compared multiple models, and selected **LightGBM** as the best performer. Forecasts support **IoT energy management**, load optimisation, and anomaly detection. An additional **LSTM experiment** was conducted to explore deep learning approaches, highlighting challenges with irregular time intervals and strong periodicity in small datasets.
+
+---
+
 ## **🛠️ Tools & Technologies**
 
 - **Languages**: Python, MATLAB, JavaScript
-- **Libraries**: Scikit-learn, PyTorch, TensorFlow, GeoPandas, Matplotlib, Seaborn
+- **Libraries**: Scikit-learn, PyTorch, TensorFlow, GeoPandas, Matplotlib, Seaborn, LightGBM
 - **Big Data & Cloud**: Apache Spark, Google Cloud Platform (GCP)
-- **Concepts**: Machine Learning, Deep Learning, Data Visualization, Statistical Modeling, Cloud Computing, Image Processing
+- **Concepts**: Machine Learning, Deep Learning, Data Visualization, Statistical Modeling, Cloud Computing, Image Processing, Time Series Forecasting
 
 ## **📫 Contact Information**
 
