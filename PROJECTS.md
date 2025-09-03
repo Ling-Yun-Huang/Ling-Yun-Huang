@@ -91,12 +91,25 @@ Analysed and forecasted **hourly building energy consumption** for the next 7 da
 
 ---
 
+### **10. [Emotion Recognition from Text using NLP](https://github.com/Ling-Yun-Huang/emotion-recognition-nlp)**  
+**Skills/Tools Used**:  
+- **Natural Language Processing**: Text cleaning, tokenization, stopword removal  
+- **Feature Extraction**: TF-IDF, word embeddings  
+- **Machine Learning & Deep Learning**: Logistic Regression, DistilBERT  
+- **Evaluation Metrics**: Accuracy, F1-score, Confusion Matrix  
+- **Programming**: Python (Scikit-learn, Transformers, Pandas, NumPy)  
+
+Developed an **emotion recognition system** to classify text into **eight categories**: joy, sadness, fear, anger, surprise, neutral, disgust, and shame.  
+Compared **traditional machine learning (TF-IDF + Logistic Regression)** with **deep learning (DistilBERT)** approaches.  
+
+---
+
 ## **🛠️ Tools & Technologies**
 
 - **Languages**: Python, MATLAB, JavaScript
-- **Libraries**: Scikit-learn, PyTorch, TensorFlow, GeoPandas, Matplotlib, Seaborn, LightGBM
+- **Libraries**: Scikit-learn, PyTorch, TensorFlow, GeoPandas, Matplotlib, Seaborn, LightGBM, Transformers
 - **Big Data & Cloud**: Apache Spark, Google Cloud Platform (GCP)
-- **Concepts**: Machine Learning, Deep Learning, Data Visualization, Statistical Modeling, Cloud Computing, Image Processing, Time Series Forecasting
+- **Concepts**: Machine Learning, Deep Learning, Data Visualization, Statistical Modeling, Cloud Computing, Image Processing, Time Series Forecasting, Natural Language Processing (NLP)
 
 ## **📫 Contact Information**
 
