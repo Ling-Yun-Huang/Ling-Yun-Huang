@@ -91,7 +91,7 @@ Analysed and forecasted **hourly building energy consumption** for the next 7 da
 
 ---
 
-### **10. [Emotion Recognition from Text using NLP](https://github.com/Ling-Yun-Huang/emotion-recognition-nlp)**  
+### **10. [Emotion Recognition from Text using NLP](https://github.com/Ling-Yun-Huang/nlp-text-emotion-recognition)**  
 **Skills/Tools Used**:  
 - **Natural Language Processing**: Text cleaning, tokenization, stopword removal  
 - **Feature Extraction**: TF-IDF, word embeddings  
