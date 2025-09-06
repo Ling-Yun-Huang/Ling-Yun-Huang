@@ -1,117 +1,111 @@
-# **Ling-Yun Huang's Projects**
+# 🌟 Ling-Yun Huang – Projects Portfolio
 
-### **1. [Dissertation: Filling Missing Data in Electricity Supply Areas with Machine Learning Methods](https://github.com/Ling-Yun-Huang/filling-missing-data-electricity-ml)**  
-**Skills/Tools Used**:  
-- **Machine Learning**: Random Forest, Multilayer Perceptrons (MLP), Regression Model, Spatial Analysis
-- **Data Integration**: GeoPandas, Feature Engineering 
-- **Programming**: Python (Scikit-learn, statsmodels, mgwr)  
+#### 🏷️ Project Areas
 
-Developed machine learning models for missing value imputation in electricity supply area datasets, integrating spatial data with GeoPandas. Collaborated with **Advanced Infrastructure Technology Ltd** to enhance data quality and provide actionable insights for energy data optimisation.
+⚡ Machine Learning | 🌍 Energy & Sustainability | 🖼️ Computer Vision | 📝 NLP & Text | ☁️ Cloud & Big Data
 
 ---
 
-### **2. [Energy Outcomes Analysis Based on Countries' Development Levels](https://github.com/Ling-Yun-Huang/worldwide-energy-outcomes-visual-analytics)**  
-**Skills/Tools Used**:  
-- **Clustering & Statistical Modelling**: K-means, ANOVA, Mixed Effects Models, Time Series Forecasting
-- **Data Visualization & Visual Analytics**: Matplotlib, Seaborn, Altair
-- **Programming**: Python (Pandas, NumPy, Statsmodels)
+### **1. Dissertation: Filling Missing Data in Electricity Supply Areas with Machine Learning Methods**
 
-Analysed global energy disparities from 2010–2020 using statistical modelling and clustering techniques. Developed a visual analytics process to explore trends in energy accessibility, efficiency, and sustainability across different countries. Additionally, forecasted energy outcomes for 2030, align with **UK sustainability goals** to support policy recommendations and decision-making for the future.
-
----
-
-### **3. [Parallelising Data Storage and Processing with PySpark on Google Cloud Platform](https://github.com/Ling-Yun-Huang/spark-gcp-data-optimization)**  
-**Skills/Tools Used**:  
-- **Big Data Technologies**: PySpark, Google Cloud Platform (GCP)  
-- **Cloud Computing**: Data Parallelization, Performance Optimization  
-- **Programming**: Python  
-
-Optimised cloud-based workflows for efficient data storage and processing using **Apache Spark** on **Google Cloud Platform**. This project involved performance optimisation through parallelisation and caching, significantly improving speed and resource utilisation.
+🔹 [repo](https://github.com/Ling-Yun-Huang/filling-missing-data-electricity-ml)  
+🏷️ ⚡ ML | 🌍 Energy  
+✅ Improved electricity dataset quality for Advanced Infrastructure Technology Ltd, enabling actionable insights  
+💻 Random Forest, MLP, Spatial Analysis, Python  
 
 ---
 
-### **4. [Mask-Wearing Detection using Computer Vision Techniques](https://github.com/Ling-Yun-Huang/mask-detection-cv)**  
-**Skills/Tools Used**:  
-- **Deep Learning**: Convolutional Neural Networks (CNN), Multilayer Perceptrons (MLP), Support Vector Machines (SVM)  
-- **Image Processing**: HOG, SIFT, Feature Extraction  
-- **Programming**: Python (PyTorch, cv2, Scikit-learn)
+### **2. Diabetes Prediction: Logistic Regression vs Naïve Bayes**
 
-Developed a real-time mask-wearing detection system using deep learning (CNNs). Multiple classification methods (CNN, HOG+SVM, SIFT+MLP) were compared, and CNNs' superior performance in detecting mask-wearing in image/video streams was demonstrated.
-
----
-
-### **5. [Diabetes Prediction: Comparing Logistic Regression and Naïve Bayes](https://github.com/Ling-Yun-Huang/diabetes-prediction-ml)**  
-**Skills/Tools Used**:  
-- **Machine Learning**: Logistic Regression, Naïve Bayes  
-- **Model Evaluation**: F1-score, AUC  
-- **Programming**: MATLAB  
-
-I compared **Logistic Regression** and **Naïve Bayes** models using **Kaggle’s Diabetes Health Indicators** dataset. This project highlights the **Logistic Regression** model’s superior predictive performance in terms of **F1-score** and **AUC**.
+🔹 [repo](https://github.com/Ling-Yun-Huang/diabetes-prediction-ml)  
+🏷️ ⚡ ML  
+✅ Logistic Regression outperformed Naïve Bayes on the health dataset  
+💻 Logistic Regression, Naïve Bayes, MATLAB   
 
 ---
 
-### **6. [Visualising Taiwan's Renewable Energy Progress (2005–2023)](https://github.com/Ling-Yun-Huang/taiwan-renewable-energy-visualisation)**  
-**Skills/Tools Used**:  
-- **Data Visualization**: Observable, JavaScript  
-- **Statistical Modeling**: Regression Analysis (Linear & Polynomial)  
-- **Programming**: JavaScript, Python  
+### **3. IoT-Based Building Energy Forecasting**
 
-Developed **interactive visualisations** to analyse Taiwan’s renewable energy progress from **2005 to 2023**, focusing on the impact of **2016 energy policy reforms**. Explored **solar and wind energy trends**, identified **seasonal patterns**, and used **regression models** to assess the feasibility of Taiwan’s **20% renewable energy target by 2025**.
-
----
-
-### **7. [Road Safety Analysis: Pedestrian Safety in Taipei](https://github.com/Ling-Yun-Huang/taipei-pedestrian-safety-analysis)**  
-**Skills/Tools Used**:  
-- **Machine Learning**: Random Forest  
-- **Data Analysis**: Regression, Feature Engineering  
-- **Programming**: Python  
-
-This project analyses **traffic accident data** from Taipei (2020–2022) to improve pedestrian safety. Using **Random Forest** models, I identified key factors influencing pedestrian injuries, such as age, time of day, and vehicle type.
+🔹 [repo](https://github.com/Ling-Yun-Huang/IoT-Energy-Consumption)  
+🏷️ ⚡ ML | ☁️ Cloud  
+✅ Predicted 7-day hourly building energy use for IoT management  
+💻 LightGBM, LSTM, Python, TensorFlow  
 
 ---
 
-### **8. [MLPs vs CNNs for Image Classification](https://github.com/Ling-Yun-Huang/mlp-vs-cnn-image-classification)**  
-**Skills/Tools Used**:  
-- **Neural Networks**: MLP, CNN  
-- **Machine Learning**: Image Classification  
-- **Programming**: Python, PyTorch  
+### **4. Global Energy Outcomes Analysis**
 
-This study compares the performance of **Multilayer Perceptrons (MLPs)** and **Convolutional Neural Networks (CNNs)** for **image classification** tasks, demonstrating the superiority of CNNs for tasks involving spatial feature extraction.
-
----
-
-### **9. [IoT-Based Energy Consumption Analysis and Forecasting for Building Systems](https://github.com/Ling-Yun-Huang/IoT-Energy-Consumption)**  
-**Skills/Tools Used**:  
-- **Machine Learning & Forecasting**: LightGBM, RandomForest, XGBoost, LSTM  
-- **Feature Engineering**: Time-based features, rolling statistics, lag features  
-- **Data Visualisation**: Matplotlib, Seaborn, weekly pattern vs forecast plots  
-- **Programming**: Python (Pandas, NumPy, Scikit-learn, LightGBM, TensorFlow/Keras for LSTM)  
-
-Analysed and forecasted **hourly building energy consumption** for the next 7 days using IoT-based historical data. Generated detailed **time-series features** capturing daily and weekly cycles, compared multiple models, and selected **LightGBM** as the best performer. Forecasts support **IoT energy management**, load optimisation, and anomaly detection. An additional **LSTM experiment** was conducted to explore deep learning approaches, highlighting challenges with irregular time intervals and strong periodicity in small datasets.
+🔹 [repo](https://github.com/Ling-Yun-Huang/worldwide-energy-outcomes-visual-analytics)  
+🏷️ 🌍 Energy  
+✅ Forecasted 2030 energy trends to support sustainability policies  
+💻 Clustering, Mixed Effects Models, Time Series, Data Visualisation  
 
 ---
 
-### **10. [Emotion Recognition from Text using NLP](https://github.com/Ling-Yun-Huang/nlp-text-emotion-recognition)**  
-**Skills/Tools Used**:  
-- **Natural Language Processing**: Text cleaning, tokenization, stopword removal  
-- **Feature Extraction**: TF-IDF, word embeddings  
-- **Machine Learning & Deep Learning**: Logistic Regression, DistilBERT  
-- **Evaluation Metrics**: Accuracy, F1-score, Confusion Matrix  
-- **Programming**: Python (Scikit-learn, Transformers, Pandas, NumPy)  
+### **5. Taiwan Renewable Energy Trends (2005–2023)**
 
-Developed an **emotion recognition system** to classify text into **eight categories**: joy, sadness, fear, anger, surprise, neutral, disgust, and shame.  
-Compared **traditional machine learning (TF-IDF + Logistic Regression)** with **deep learning (DistilBERT)** approaches.  
+🔹 [repo](https://github.com/Ling-Yun-Huang/taiwan-renewable-energy-visualisation)  
+🏷️ 🌍 Energy  
+✅ Interactive visualisation tracking renewable energy growth & policy impacts; assessed 2025 20% renewable target  
+💻 Regression Analysis, JavaScript, Python  
 
 ---
 
-## **🛠️ Tools & Technologies**
+### **6. Real-Time Mask-Wearing Detection**
 
-- **Languages**: Python, MATLAB, JavaScript
-- **Libraries**: Scikit-learn, PyTorch, TensorFlow, GeoPandas, Matplotlib, Seaborn, LightGBM, Transformers
-- **Big Data & Cloud**: Apache Spark, Google Cloud Platform (GCP)
-- **Concepts**: Machine Learning, Deep Learning, Data Visualization, Statistical Modeling, Cloud Computing, Image Processing, Time Series Forecasting, Natural Language Processing (NLP)
+🔹 [repo](https://github.com/Ling-Yun-Huang/mask-detection-cv)  
+🏷️ 🖼️ Computer Vision | ⚡ ML  
+✅ Built real-time detection system; CNNs outperformed baseline methods  
+💻 CNN, HOG+SVM, SIFT+MLP, PyTorch  
 
-## **📫 Contact Information**
+---
+
+### **7. MLPs vs CNNs for Image Classification**
+
+🔹 [repo](https://github.com/Ling-Yun-Huang/mlp-vs-cnn-image-classification)  
+🏷️ 🖼️ Computer Vision | ⚡ ML  
+✅ CNNs excelled in spatial feature extraction for image tasks  
+💻 MLP, CNN, PyTorch, Python  
+
+---
+
+### **8. Text Emotion Recognition**
+
+🔹 [repo](https://github.com/Ling-Yun-Huang/nlp-text-emotion-recognition)  
+🏷️ 📝 NLP | ⚡ ML  
+✅ Classified text into 8 emotions; compared ML vs DistilBERT, achieving high accuracy  
+💻 NLP, Transformers, Logistic Regression, Python  
+
+---
+
+### **9. Cloud Data Optimisation with PySpark**
+
+🔹 [repo](https://github.com/Ling-Yun-Huang/spark-gcp-data-optimization)  
+🏷️ ☁️ Cloud | ⚡ ML  
+✅ Optimised cloud data processing on GCP, improving speed and resource utilisation  
+💻 PySpark, GCP, Python  
+
+---
+
+### **10. Pedestrian Safety Analysis in Taipei**
+
+🔹 [repo](https://github.com/Ling-Yun-Huang/taipei-pedestrian-safety-analysis)  
+🏷️ ⚡ ML | 🌍 Energy (Urban Data)  
+✅ Identified key factors influencing pedestrian injuries, supporting safer city planning  
+💻 Random Forest, Feature Engineering, Python  
+
+---
+
+### 🛠️ Tools & Technologies
+
+**💻 Languages:** Python, MATLAB, JavaScript  
+**📚 Libraries:** Scikit-learn, PyTorch, TensorFlow, GeoPandas, Matplotlib, Seaborn, LightGBM, Transformers  
+**☁️ Cloud:** Apache Spark, GCP  
+**🧠 Skills:** Machine Learning, Deep Learning, Data Visualisation, NLP, etc.
+
+---
+
+### **📫 Contact Information**
 
 - **LinkedIn**: [Ling-Yun Huang LinkedIn](https://www.linkedin.com/in/ling-yun-huang-5a6a56206/)
 - **Email**: huanglingyun510@gmail.com
